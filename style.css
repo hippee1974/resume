@@ -147,6 +147,7 @@
 .right-area .work h1{
     margin-top: 30px;
     margin-left:00px;
+    margin-bottom: 20px;
     font-size: 30px;
     font-weight: normal;
     color: gray;
@@ -167,5 +168,17 @@
     padding-left: 70px;
 }
 .work-group span{
-
+    position: absolute;
+    top: 0px;
+    right: 0;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+.work-group p{
+    margin-top: 15px;
+    font-size: 15px;
+    color: gray;
+    padding-left: 70px;
+    margin-bottom: 20px;
 }
