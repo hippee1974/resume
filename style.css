@@ -132,14 +132,28 @@
 .right-area .about h1{
     font-size: 30px;
     font-weight: normal;
-    color: lightgreen;
+    color: gray;
+    text-align: left;
 }
 .right-area .about h1 span{
     margin-right: 30px;
     font-size: 50px;
-    color: lightgreen;
+    color: goldenrod;
 }
 .right-area .about p{
-    padding-left: 10px;
-    text-align: justify;
+    padding-left: 70px;
+    text-align:left;
+}
+.right-area .work h1{
+    margin-top: 30px;
+    margin-left:00px;
+    font-size: 30px;
+    font-weight: normal;
+    color: gray;
+    text-align: left;
+}
+.right-area .work h1 span{
+    margin-right: 30px;
+    font-size: 50px;
+    color: goldenrod;
 }
