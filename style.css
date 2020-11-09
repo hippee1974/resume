@@ -157,3 +157,15 @@
     font-size: 50px;
     color: goldenrod;
 }
+.work .work-group{
+    position: relative;
+}
+.work .work-group h3{
+    font-size: 18px;
+    font-weight: bold;
+    color: brown;
+    padding-left: 70px;
+}
+.work-group span{
+
+}
