@@ -112,6 +112,9 @@
       transform: translateY(-50%);
       border-radius: 10px;
   }
+  .follow h1{
+      margin-top: 40px;
+  }
   .follow h4{
       font-size: 15px;
       margin: 10px 0;
