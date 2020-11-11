@@ -182,3 +182,39 @@
     padding-left: 70px;
     margin-bottom: 20px;
 }
+
+.right-area .education h1 span{
+    margin-right: 30px;
+    font-size: 50px;
+    color: goldenrod;
+}
+.education .edu-group{
+    position: relative;
+}
+.education .edu-group h3{
+    font-size: 18px;
+    font-weight: bold;
+    color: brown;
+    padding-left: 70px;
+}
+.education .edu-group h4{
+    font-size: 16px;
+    font-weight: bold;
+    color: brown;
+    padding-left: 70px;
+}
+.edu-group span{
+    position: absolute;
+    top: 0px;
+    right: 0;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+.edu-group p{
+    margin-top: 15px;
+    font-size: 15px;
+    color: gray;
+    padding-left: 70px;
+    margin-bottom: 20px;
+}
